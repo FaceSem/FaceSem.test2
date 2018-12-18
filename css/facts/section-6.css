@@ -207,7 +207,7 @@
       background-color: #eff2f6;
       padding-bottom: 4%;
        padding-top: 9vw;
-       margin-left: 54vw; }
+       margin-left: 52vw; }
       .section-facts-6 .block-2-section-6 .bioactive-cmp img {
         width: 13.5vw;
         margin-top: 0vw; }
@@ -248,6 +248,7 @@
         font-size: 1.1vw;
         padding-top: 0.75vw;
         padding-left: 0.4vw;
+        font-weight: 500;
         color: black;
       }
     .section-facts-6 .block-2-section-6 .paper-2 {

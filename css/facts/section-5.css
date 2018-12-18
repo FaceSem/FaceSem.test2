@@ -222,8 +222,9 @@
 
       .section-facts-5 .block-2-section-5 .text-block-tab table tr td img {
         width: 2.5vw;
-        margin-top: 0.2vw;
-        margin-left: 0.4vw;
+        margin-top: 0.7vw;
+        margin-left: -0.5vw;
+    
       }
 
       .section-facts-5 .block-2-section-5 .text-block-tab table td {
@@ -233,7 +234,7 @@
         font-family: 'Open Sans';
         color: #2f3031;}
       .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal {
-        font-size: 1.3vw;
+        font-size: 1.24vw;
         font-weight: 600;
         padding-left: 1vw;
         display: flex;
@@ -241,10 +242,10 @@
 
         .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal .txt-center {
           padding-right: 4vw;
-          padding-left: 5.3vw;
+          padding-left: 4vw;
           font-size: 1.4vw;
           font-weight: bold;
-          width: 9vw;
+          width: 11vw;
           height: auto;
         }
 
