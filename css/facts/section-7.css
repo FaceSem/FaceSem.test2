@@ -126,12 +126,12 @@
         background-color: #f6f9fc;
         padding-top: 5%;
         padding-bottom: 10%;
-        height: 55vw;
+        height: 57vw;
   }
     .section-facts-7 .block-2-section-7 .text-block {
       display: flex;
       flex-direction: row;
-      height: 52vw;}
+      height: 56vw;}
     .section-facts-7 .block-2-section-7 h3 {
       font-family: 'Open Sans';
       word-spacing: 0.1vw;
@@ -241,7 +241,8 @@
       .section-facts-7 .block-2-section-7 .section-7-img-bckgr .blue-color {
         background-color: #BEE8ED; }
       .section-facts-7 .block-2-section-7 .section-7-img-bckgr .pdng-tab-section {
-        margin-top: 0.7vw!important; }
+        margin-top: 1.7vw!important;}
+
       .section-facts-7 .block-2-section-7 .section-7-img-bckgr .tabcontent-section-7 {
         width: 22.5vw;
         display: flex;

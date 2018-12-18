@@ -1564,6 +1564,7 @@ body {
 
     .footer {
         height: auto;
+        margin-top: 2vw;
     }
 
     .contact-us {
