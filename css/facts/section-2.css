@@ -210,7 +210,8 @@
   .section-facts-2 .chemistry-facts {
     display: flex;
     background-color: #ffffff;
-    position: relative; }
+    position: relative; 
+    padding-top: 0vw;}
     .section-facts-2 .chemistry-facts .details-chemistry-facts {
       padding-left: 6.2vw;
       width: 65%; }
@@ -219,7 +220,7 @@
         width: 70%;
         margin-top: -7.9vw;
         margin-left: 3vw;
-        word-spacing: -3.9px;
+        word-spacing: 1.1px;
         letter-spacing: -0.5px;}
         .section-facts-2 .chemistry-facts .details-chemistry-facts .section-2-title #loading:hover {
           box-shadow: none !important; }
@@ -255,7 +256,7 @@
       position: absolute;
       bottom: 0.34vw;
       right: 10.1vw;
-      top: -12.8vw;}
+      top: -6vw;}
       .section-facts-2 .chemistry-facts .chemistry-image img {
         width: 19.9vw; }
 

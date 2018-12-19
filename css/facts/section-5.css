@@ -1,5 +1,5 @@
 .section-facts-5 {
-  padding-top: 5%; }
+  padding-top: 2%; }
   .section-facts-5 .block-1-section-5 .text-block {
     display: flex;
     flex-direction: row;
@@ -182,7 +182,7 @@
         padding: 0;
         margin-top: -2vw;
         padding-right: 0px;
-        margin-left: 5px;
+        margin-left: 0.5vw;
         -webkit-box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75);
         -moz-box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75);
         box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75); }
@@ -224,7 +224,8 @@
         width: 2.5vw;
         margin-top: 0.7vw;
         margin-left: -0.2vw;
-    
+        border-radius: 50%;
+        box-shadow: 0px 4px 12px 1px #a1a4a7;
       }
 
       .section-facts-5 .block-2-section-5 .text-block-tab table td {
@@ -235,7 +236,7 @@
         color: #2f3031;}
       .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal {
         font-size: 1.24vw;
-        font-weight: 600;
+        font-weight: 300;
         padding-left: 1vw;
         display: flex;
         align-items: center; }
@@ -311,13 +312,16 @@
       width: 40vw; }
 
     .row-element-1 {
-      margin-top: 0px;
-      margin-left: 10vw;
-
-
+      margin-top: 28px;
+      margin-left: 7vw;
+      margin-right: 3vw;
     }  
 
     .row-element-2 {
-      margin-top: 60px;
+      margin-top: 68px;
+    }
+
+    .titles {
+      width: 41vw;
     }
 

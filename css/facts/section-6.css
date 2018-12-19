@@ -1,12 +1,13 @@
 .section-facts-6 {
-  padding-top: 5%; }
+  padding-top: 0%;
+  margin-top: -0.5vw; }
   .section-facts-6 .text-block {
     display: flex;
     flex-direction: row; }
 
    .bubble-block {
       width: 45vw;
-      height: 30vw;
+      height: 55vw;
    } 
    .container-block {
       width: 50vw;
@@ -207,15 +208,15 @@
       background-color: #eff2f6;
       padding-bottom: 4%;
        padding-top: 9vw;
-       margin-left: 52vw; }
+       margin-left: 51vw; }
       .section-facts-6 .block-2-section-6 .bioactive-cmp img {
-        width: 13.5vw;
+        width: 14.5vw;
         margin-top: 0vw; }
       .section-facts-6 .block-2-section-6 .bioactive-cmp p {
         margin-right: 3vw;
         font-family: 'Open Sans';
         font-weight: bold;
-        line-height: 30px;
+        line-height: 2vw;
         padding-left: 4px; }
       .section-facts-6 .block-2-section-6 .bioactive-cmp .fnt-size-1 {
         font-size: 1.6vw;
@@ -236,7 +237,7 @@
       height: 30vw; }
 
       .bckg-image-6 {
-        height: 45vw;
+        height: 56.5vw;
 
       }
 
@@ -245,7 +246,7 @@
       }
 
       .section-facts-6 .block-2-section-6 .paper-2 p {
-        font-size: 1.1vw;
+        font-size: 1.3vw;
         padding-top: 0.75vw;
         padding-left: 0.4vw;
         font-weight: 500;
@@ -263,7 +264,7 @@
 
     #Niacinamide-block-6 {
       background-image: url(../../img/facts/Board.png);
-      background-size: 100% 97%;
+      background-size: 100% 101%;
       background-repeat: no-repeat;
       width: 40vw;
       height: 30vw;
@@ -273,7 +274,7 @@
 
       #Inositol-block-6 {
         background-image: url(../../img/facts/Board.png);
-        background-size: 100% 90%;
+        background-size: 100% 93%;
         background-repeat: no-repeat;
         width: 40vw;
         height: 30vw;
@@ -283,17 +284,17 @@
 
       #Sodium-block-6 {
         background-image: url(../../img/facts/Board.png);
-        background-size: 100% 99%;
+        background-size: 97% 100%;
         background-repeat: no-repeat;
         width: 42vw;
-        height: 29vw;
+        height: 37.5vw;
         padding-bottom: 19vw;
         margin-top: -3vw;
       }
 
       #Citrate-block-6 {
         background-image: url(../../img/facts/Board.png);
-        background-size: 100% 91%;
+        background-size: 100% 100%;
         background-repeat: no-repeat;
         width: 40vw;
         height: 30vw;
@@ -303,7 +304,7 @@
 
       #Collagen-block-6 {
         background-image: url(../../img/facts/Board.png);
-        background-size: 100% 80%;
+        background-size: 100% 94%;
         background-repeat: no-repeat;
         width: 40vw;
         height: 30vw;
@@ -331,8 +332,9 @@
       /* border-right: 71px solid transparent; */
       }
     .section-facts-6 .block-2-section-6 .txt-line {
-      font-size: 1.4vw!important;
+      font-size: 1.6vw!important;
       font-weight: bold;
+      font-weight: 700!important;
       font-family: 'Open Sans';}
     .section-facts-6 .block-2-section-6 .yes {
       color: #24b47e;
